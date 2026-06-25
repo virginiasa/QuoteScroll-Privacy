@@ -81,4 +81,9 @@ If we update this policy in a meaningful way, for example, if a future version o
 
 ---
 
+## 9. Support URL
+Contact vsahagun.ucsd@gmail.com for support and questions.
+
+---
+
 *Quote Scroll is built and maintained as an independent app. All quoted material belongs to its respective authors and is used for educational and inspirational purposes only.*
