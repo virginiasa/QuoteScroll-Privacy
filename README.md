@@ -1,2 +1,2 @@
-# QuoteDrop-Privacy
-Privacy policy for Quote drop
+# QuoteScroll-Privacy
+Privacy policy for Quote Scroll
