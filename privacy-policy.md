@@ -1,4 +1,4 @@
-# Privacy Policy — Quote Scroll
+# Privacy Policy: Quote Scroll
 
 **Last updated: June 23, 2026**
 
@@ -28,7 +28,7 @@ None of this data is transmitted to us or any third party.
 
 ## 2. iCloud Sync
 
-If you are signed into iCloud on your device, the App will sync your **favorites and notes** to your personal iCloud Key-Value Store. This sync happens directly between your device and Apple's iCloud servers — we never see, access, or store this data.
+If you are signed into iCloud on your device, the App will sync your **favorites and notes** to your personal iCloud Key-Value Store. This sync happens directly between your device and Apple's iCloud servers. We never see, access, or store this data.
 
 This means:
 - Your favorites and notes follow you if you switch devices or reinstall the App.
@@ -47,7 +47,7 @@ Your subscription status is verified directly with Apple via StoreKit on your de
 
 ## 4. Notifications
 
-Quote Scroll sends **local notifications** only — daily reminders that are scheduled and triggered entirely on your device. No notification data is sent to a server. We have no way to track whether you open or dismiss a notification.
+Quote Scroll sends **local notifications** only. The daily reminders that are scheduled and triggered entirely on your device. No notification data is sent to a server. We have no way to track whether you open or dismiss a notification.
 
 You can enable, disable, or reschedule notifications at any time in **Quote Scroll → Settings → Daily Reminder**, or in **iOS Settings → Notifications → Quote Scroll**.
 
@@ -70,14 +70,14 @@ The App does not knowingly collect any information from children under the age o
 Because we collect no data on our end, there is nothing for us to delete. All data (favorites, notes, preferences) lives on your device or in your iCloud account.
 
 To delete everything:
-- **Delete the App** — removes all locally stored data from your device.
-- **Disable iCloud sync** (see Section 2) and delete the App — removes iCloud-synced data as well.
+- **Delete the App**: removes all locally stored data from your device.
+- **Disable iCloud sync** (see Section 2) and delete the App: removes iCloud-synced data as well.
 
 ---
 
 ## 8. Changes to This Policy
 
-If we update this policy in a meaningful way — for example, if a future version of the App adds a new feature that handles data differently — we will update the "Last updated" date above and post the new policy at the same URL. Continued use of the App after a change constitutes acceptance of the updated policy.
+If we update this policy in a meaningful way, for example, if a future version of the App adds a new feature that handles data differently, we will update the "Last updated" date above and post the new policy at the same URL. Continued use of the App after a change constitutes acceptance of the updated policy.
 
 ---
 
