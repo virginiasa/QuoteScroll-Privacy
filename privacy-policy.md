@@ -1,8 +1,8 @@
-# Privacy Policy — Quote Drop
+# Privacy Policy — Quote Scroll
 
 **Last updated: June 23, 2026**
 
-This Privacy Policy describes how Quote Drop handles your information. We built Quote Drop to be a private, minimal app — it does not collect personal data, run advertising, or share anything with third parties.
+This Privacy Policy describes how Quote Scroll handles your information. We built Quote Scroll to be a private, minimal app — it does not collect personal data, run advertising, or share anything with third parties.
 
 ---
 
@@ -33,7 +33,7 @@ If you are signed into iCloud on your device, the App will sync your **favorites
 This means:
 - Your favorites and notes follow you if you switch devices or reinstall the App.
 - The data is governed by [Apple's iCloud Terms and Conditions](https://www.apple.com/legal/internet-services/icloud/).
-- You can disable iCloud sync at any time in **iOS Settings → [Your Name] → iCloud → Quote Drop**.
+- You can disable iCloud sync at any time in **iOS Settings → [Your Name] → iCloud → Quote Scroll**.
 
 ---
 
@@ -47,9 +47,9 @@ Your subscription status is verified directly with Apple via StoreKit on your de
 
 ## 4. Notifications
 
-Quote Drop sends **local notifications** only — daily reminders that are scheduled and triggered entirely on your device. No notification data is sent to a server. We have no way to track whether you open or dismiss a notification.
+Quote Scroll sends **local notifications** only — daily reminders that are scheduled and triggered entirely on your device. No notification data is sent to a server. We have no way to track whether you open or dismiss a notification.
 
-You can enable, disable, or reschedule notifications at any time in **Quote Drop → Settings → Daily Reminder**, or in **iOS Settings → Notifications → Quote Drop**.
+You can enable, disable, or reschedule notifications at any time in **Quote Scroll → Settings → Daily Reminder**, or in **iOS Settings → Notifications → Quote Scroll**.
 
 ---
 
@@ -81,4 +81,4 @@ If we update this policy in a meaningful way — for example, if a future versio
 
 ---
 
-*Quote Drop is built and maintained as an independent app. All quoted material belongs to its respective authors and is used for educational and inspirational purposes only.*
+*Quote Scroll is built and maintained as an independent app. All quoted material belongs to its respective authors and is used for educational and inspirational purposes only.*
